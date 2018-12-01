@@ -15,18 +15,35 @@
 效果图
 
 项目图:
+
+
 ![image](https://github.com/29DCH/Word_Cloud/blob/master/pictures/jaychou/3.png)
 
+
+
 专辑:
+
+
 ![image](https://github.com/29DCH/Word_Cloud/blob/master/pictures/jaychou/1.png)
 
+
+
 歌词:
+
+
 ![image](https://github.com/29DCH/Word_Cloud/blob/master/pictures/jaychou/2.png)
+
+
 ![image](https://github.com/29DCH/Word_Cloud/blob/master/pictures/jaychou/4.png)
 
+
 jaychou歌词词云:
+
+
 ![image](https://github.com/29DCH/Word_Cloud/blob/master/pictures/jaychou/jaychou.jpg)
 
 
 加背景的词云:
+
+
 ![image](https://github.com/29DCH/Word_Cloud/blob/master/pictures/jaychou/test.jpg)
