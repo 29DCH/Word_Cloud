@@ -43,7 +43,7 @@ jaychou歌词词云:
 ![image](https://github.com/29DCH/Word_Cloud/blob/master/pictures/jaychou/jaychou.jpg)
 
 
-加背景的词云:
+加背景的词云(这是我最喜欢的作品哈哈,感觉挺好的):
 
 
 ![image](https://github.com/29DCH/Word_Cloud/blob/master/pictures/jaychou/test.jpg)
